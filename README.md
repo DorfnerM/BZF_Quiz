@@ -15,7 +15,7 @@ Hier hinterlegt sind die ***Prüfungsfragen der Bundesnetzagentur Stand Septembe
 ### Anleitung andere Betriebssysteme (MacOS, Linux, ect.):
 1. [Python](https://www.python.org/downloads/) Version 3.6 oder höher installieren
 2. Die Prüfungsfragen im .pkl Format (2023Pruefungsfragen_BZFII_BZFI.pkl) im selben Verzeichnis ablegen wie das bzf_quiz.py Skript
-3. Das Terminal öffnen und die Kommandozeile "python <Pfad_zur_bzf_quiz.py>" eingeben (Innerhalb der "<>" wird die Angabe eines gültigen Verzeichnispfads zum bzf_quiz.py verlangt, z.B. C:/User/Desktop/bzf_quiz.py)
+3. Das Terminal öffnen und die Kommandozeile ```python <Pfad_zur_bzf_quiz.py>``` eingeben (Innerhalb der "<>" wird die Angabe eines gültigen Verzeichnispfads zum bzf_quiz.py verlangt, z.B. C:/User/Desktop/bzf_quiz.py)
 4. Richtige Antwort angeben (A/a, B/b, C/c oder D/d)
 
 Fragen und Anregungen an:
