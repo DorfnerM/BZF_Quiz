@@ -1,5 +1,7 @@
 # BZFII/I Quiz
 
+Download: https://github.com/DorfnerM/BZF_Quiz/archive/refs/heads/main.zip
+
 Ein einfaches Programm zur Vorbereitung auf den theoretischen Prüfungsteil des BZF bei der Bundesnetzagentur, welches die Prüfungsfragen und die Antworten in einer zufälligen Reihenfolge prüft.
 
 Hier hinterlegt sind die ***Prüfungsfragen der Bundesnetzagentur Stand September 2023***! Bitte bei der [Bundesnetzagentur](https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/Funkzeugnisse/Flugfunk/start.html) selbst nach dem aktuellen Stand der Prüfungsfragen informieren.
